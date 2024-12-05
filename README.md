@@ -30,3 +30,5 @@ Outline of the dataset folder structure is as follows:
 5. Quantification:
 - extract_feature.py: Calculated motility features from the 3D trajectory and save as motility_features.csv file
 - results.py: Reconstructs the 3D trajectory and learn latent features. Also generates graphs to show the figures created in powerpoint.
+
+for running the code, path should be changed so that it fits to users' path.
