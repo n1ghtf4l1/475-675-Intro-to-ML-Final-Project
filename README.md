@@ -1,4 +1,4 @@
-[dataset_structure.txt](https://github.com/user-attachments/files/18028777/dataset_structure.txt)# Reconstruction of 3D Cellular Behavior (475-675-Intro-to-ML-Final-Project)
+# Reconstruction of 3D Cellular Behavior (475-675-Intro-to-ML-Final-Project)
 Repository for Final Project for EN.601.475/675: Introduction to Machine Learning
 
 ## Dataset
