@@ -16,4 +16,17 @@ Outline of the dataset folder structure is as follows:
 - prepare_training.py: Pre-process the brightfield images and perform 3D segmentation from the fluorescent images. Saves the images to training -> cropped and training -> segmented in npy format.
 - reshape_truth.py: Reshapes the training -> segmented npy files and saves to prediction -> truth in npy format.
 
+2. Training the model:
+- train_2d3drecons.py: Train the 2D_3D ReconstructionNet
+- train_3dattention.py: Train the 3D AttentionNet
 
+3. Prediction:
+- predict_2d3drecons.py: Inference step by 2D_3D ReconstructionNet
+- predict_3dattention.py: Inference step by 3D AttentionNet
+
+4. Tracking:
+- tracking.py: Perform tracking using the predicted outcome of 3D AttentionNet
+
+5. Quantification:
+- extract_feature.py: Calculated motility features from the 3D trajectory and save as motility_features.csv file
+- results.py: Reconstructs the 3D trajectory and learn latent features. Also generates graphs to show the figures created in powerpoint.
