@@ -13,7 +13,7 @@ Outline of the dataset folder structure is as follows:
 
 ## Usage
 1. Preparation of the training dataset:
-  1-1. prepare_training.py
+1-1. prepare_training.py
      Pre-process the brightfield images and perform 3D segmentation from the fluorescent images. Saves the images to training -> cropped and training -> segmented in npy format.
-  1-2. reshape_truth.py
+1-2. reshape_truth.py
      Reshapes the training -> segmented npy files and saves to prediction ->
