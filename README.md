@@ -8,6 +8,8 @@ We used variety of CD4+ T cell subsets ('Th0', 'Th1', 'Th2', 'Treg', 'nTh17') to
 Also, we are sharing prediction outcomes from both 2d3drecons and 3dattention models. The testing dataset is within the 'brightfield' folder, prediction result is within the 'pred' folder and ground truth is within the 'truth' folder.
 Outline of the dataset folder structure is as follows:
 
+![image](https://github.com/user-attachments/assets/30f11c7c-95ee-49e2-9103-a3dbea2b969c)
+
 dataset
 └───training
 │   └───Th0
