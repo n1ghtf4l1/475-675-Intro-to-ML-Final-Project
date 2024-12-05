@@ -1,0 +1,33 @@
+numpy
+umap-learn
+pandas
+matplotlib
+datashader
+bokeh
+holoviews
+colorcet
+factor-analyzer
+# opencv
+kneed
+albumentations
+plotly==4.14.3
+tslearn
+shapely
+mahotas
+imutils
+xgboost
+py-pde
+trackpy
+pims
+napari[all] # viewing 3D images with time 
+napari-tools-menu  # Add tools menu to napari
+seaborn
+openpyxl # module for read/write Excel file
+statsmodels
+statannot # module for p-value significance annotation
+pyarrow # module for parquet and feather (storing data effciently)
+imagecodecs # module for compression of tiff files
+pyclesperanto-prototype  # for 3D segmentation
+adjustText
+cmcrameri  # Scientific colormaps
+scikit-posthocs  # Posthoc tests
