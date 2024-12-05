@@ -32,4 +32,4 @@ Outline of the dataset folder structure is as follows:
 - extract_feature.py: Calculated motility features from the 3D trajectory and save as motility_features.csv file
 - results.py: Reconstructs the 3D trajectory and learn latent features. Also generates graphs to show the figures created in powerpoint.
 
-for running the code, path should be changed so that it fits to users' path. Step1 and Step2 can be skipped and start from step 3 when using trained model we provided.
+for running the code, path should be changed so that it fits to users' path. Step1 and Step2 can be skipped and start from step 3 when using trained model we provided. You can find the trained model in the 'saved_model' folder in the link provided very top.
