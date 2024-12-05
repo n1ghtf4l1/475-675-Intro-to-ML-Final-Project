@@ -1,5 +1,6 @@
 # Reconstruction of 3D Cellular Behavior (475-675-Intro-to-ML-Final-Project)
 Repository for Final Project for EN.601.475/675: Introduction to Machine Learning
+
 Team: Chanhong Min, Hyunji Park, Anubhav De, Emily Guan
 
 ## Dataset
