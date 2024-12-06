@@ -9,7 +9,7 @@ To access our slides, please look in folder "Powerpoint".
 ## Report/Writeup
 To access our report, please look in folder "Report".
 
-## Dataset
+## Dataset & Trained Model
 Please find the datasets and trained model used for this project on: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/cmin11_jh_edu/EgsCBi2mIv1Eo15Imr3LalsB1qZAdiR3wEuh3tN1-NkUpg?e=9VGAhk
 
 We used variety of CD4+ T cell subsets ('Th0', 'Th1', 'Th2', 'Treg', 'nTh17') to train both the 2d3drecons and 3dattention model, which is stored in the training -> cropped for the brightfield images with size (32, 64, 64) and corresponding segmented images with size (32, 64, 64) in training -> segmented. Here, only Th0 subset data is shared due to limited data storage capacity, but all data can be shared upon request.
