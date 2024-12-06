@@ -3,9 +3,6 @@ Repository for Final Project for EN.601.475/675: Introduction to Machine Learnin
 
 Team: Chanhong Min(cmin11), Hyunji Park(hpark111), Anubhav De(ade11), Emily Guan(eguan3)
 
-## Slides
-Please find out slides either above, with file "Reconstructionof3DCellBehavior," or with this link: https://1drv.ms/p/c/6cb0e7ac5cb698b4/EfPL6YJLP1NOlrO9Iz9CwOwBUfcgwWqNRtbENOGQt8ueAg
-
 ## Dataset
 Please find the datasets and trained model used for this project on: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/cmin11_jh_edu/EgsCBi2mIv1Eo15Imr3LalsB1qZAdiR3wEuh3tN1-NkUpg?e=9VGAhk
 
